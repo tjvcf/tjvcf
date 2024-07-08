@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tjvcf
+- 👀 I’m interested in elixir, machine learning, robotics
+- 🌱 I’m currently learning langchain
+- 💞️ I’m looking to collaborate on anythin
